@@ -96,7 +96,3 @@ business-insights-360/
 - Executive-level KPI storytelling across Finance, Sales, Marketing, and Supply Chain
 - Scalable star-schema data modeling and clean UX/navigation across a multi-page report
 
-## Author
-
-**Femila Abdul Kareem (Fem)** — Data Analyst & Power BI Developer
-GitHub: [@FemAbdul](https://github.com/FemAbdul)
