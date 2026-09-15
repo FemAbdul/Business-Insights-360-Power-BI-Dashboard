@@ -83,10 +83,7 @@ business-insights-360/
 │   ├── 04_marketing_view.png
 │   ├── 05_supply_chain_view.png
 │   └── 06_executive_view.png
-└── Business_Insights_360.pbix   ← add your .pbix file here (see note below)
 ```
-
-> **Note on the .pbix file:** this dashboard was built with a licensed/sample sales dataset. If the underlying data is proprietary or from a paid course, either (a) don't commit the raw `.pbix`, or (b) swap in a de-identified/sample dataset before publishing, and mention that in this README. GitHub also has a 100MB file-size limit — if your `.pbix` is larger, use [Git LFS](https://git-lfs.com/) or leave it out and describe the build here instead.
 
 ## What This Project Demonstrates
 
