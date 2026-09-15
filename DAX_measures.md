@@ -105,8 +105,3 @@ DIVIDE(
 )
 ```
 
-## Notes
-
-- Measures assume a star schema: a central `Sales` fact table plus `Date`, `Customer`, `Product` (with `Segment`/`Category` hierarchy), `Region/Market`, and a separate `Forecast` fact table joined on Date/Product/Customer.
-- The **vs LY / vs Target / vs Benchmark** toggle on each page is typically built with a disconnected "Comparison Toggle" table and a `SWITCH` measure, so every KPI card and chart responds to the same selector.
-- `EI` (Excess Inventory) and `OOS` (Out of Stock) thresholds can be tuned — consider adding a **Target Gap Tolerance** parameter (as used on the Sales/Marketing performance-matrix pages) to control how far off-target a point must be before it's flagged.
